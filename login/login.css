@@ -1,0 +1,12 @@
+
+.content{
+	font-size: 25px;
+	height:500px;
+	width:500px;
+	text-align: center;
+	background-color: orange;
+	margin-left: 400px;
+}
+.content form input{
+	border-radius: 5px;
+}

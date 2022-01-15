@@ -1,0 +1,12 @@
+.container{
+	height: 500px;
+	width:600px;
+	background-color: orange;
+	font-size: 20px;
+}
+.container .row .blank{
+	margin-top: 40px;
+}
+.container .row .row{
+	padding: 20px;
+}
